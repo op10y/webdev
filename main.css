@@ -260,7 +260,7 @@ html[data-scroll="true"] #content img {
 }
 
 html[data-scroll="true"] #hero-backup {
-  transition: 0.2s;
+  transition: 0.9s;
   transform: scale(1.1);
   display: flex;
 flex-direction: column;
